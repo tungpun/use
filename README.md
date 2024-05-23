@@ -11,6 +11,10 @@ Things I use
 
 * `starship.rs`
 
+* Dvorak layout
+
+* 
+
 ## Development
 
 * `hurl`
@@ -38,3 +42,4 @@ Things I use
   * Ruff
   * Excalidraw (great stuff to draw)
   * Tokyo Hack and Viking Icon theme
+

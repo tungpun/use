@@ -9,11 +9,10 @@ Things I use
 
 * Alacritty
 
-* `starship.rs`
+* starship.rs
 
 * Dvorak layout
 
-* 
 
 ## Development
 
@@ -43,3 +42,8 @@ Things I use
   * Excalidraw (great stuff to draw)
   * Tokyo Hack and Viking Icon theme
 
+## Hardware
+
+* Lucky65
+* MX master mouse
+* GTChair Isee M

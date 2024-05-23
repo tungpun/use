@@ -1,6 +1,6 @@
 # hurl
 
-Postman's replacement. I can use to test the web endpoint with the raw HTTP request.
+Postman's replacement. I can use it to test the web endpoint with the raw HTTP request.
 
 For example:
 

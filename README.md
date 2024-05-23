@@ -3,11 +3,11 @@ Things I use
 
 ## Utilities
 
-* `Raycast`
+* Raycast
 
-Powerful search app on macOS
+  Powerful search app on macOS
 
-* `Alacritty`
+* Alacritty
 
 * `starship.rs`
 
@@ -15,19 +15,26 @@ Powerful search app on macOS
 
 * `hurl`
 
-Postman's replacement. I can use it to test the web endpoint with the raw HTTP request.
+  Postman's replacement. I can use it to test the web endpoint with the raw HTTP request.
 
-For example:
+  For example:
+  ```
+  ❯ cat test.hurl
+  GET https://80e7-118-70-136-153.ngrok-free.app/
+  Host: 80e7-118-70-136-153.ngrok-free.app
+  User-Agent: Yehtnyaoehtnihetnhin
+  Accept-Encoding: gzip, deflate, br, zstd
+  Accept-Language: en-US,en;q=0.9,vi;q=0.8
+  Dnt: 1
+  Priority: u=0, i
 
-```
-❯ cat test.hurl
-GET https://80e7-118-70-136-153.ngrok-free.app/
-Host: 80e7-118-70-136-153.ngrok-free.app
-User-Agent: Yehtnyaoehtnihetnhin
-Accept-Encoding: gzip, deflate, br, zstd
-Accept-Language: en-US,en;q=0.9,vi;q=0.8
-Dnt: 1
-Priority: u=0, i
+  ❯ hurl test.hurl
+  ```
 
-❯ hurl test.hurl
-```
+* VSCode
+
+  with extensions:
+
+  * Ruff
+  * Excalidraw (great stuff to draw)
+  * Tokyo Hack and Viking Icon theme

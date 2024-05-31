@@ -45,5 +45,5 @@ Things I use
 ## Hardware
 
 * Lucky65
-* MX master mouse
+* MX anywhere mouse
 * GTChair Isee M
